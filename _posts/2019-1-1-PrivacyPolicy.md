@@ -3,11 +3,7 @@ layout: post
 title: PrivacyPolicy
 ---
 
-PrivacyPolicy.
-
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-We built the this app as free app. This SERVICE is provided by CL and is intended for use as is.
+We built the this app as free app. This SERVICE is provided by zsintan and is intended for use as is.
 
 This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
 
