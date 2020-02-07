@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Contact us
 permalink: /about/
 ---
 
@@ -10,6 +10,6 @@ Feel free to contact us!
 
 Feel free to contact us!
 
-### Contact me
+### Contact us
 
 [gmfy163@163.com](mailto:gmfy163@163.com)
