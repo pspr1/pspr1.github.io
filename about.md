@@ -12,4 +12,4 @@ Feel free to contact us!
 
 ### Contact us
 
-[gmfy163@163.com](mailto:gmfy163@163.com)
+[zygametop@gmail.com](mailto:zygametop@gmail.com)
