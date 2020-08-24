@@ -35,4 +35,4 @@ These Terms of Service are effective as of 2020-08-11
 
 **Contact Us**
 
-If you have any questions or suggestions about my Terms of Service, do not hesitate to contact me at zygametop@gmail.com.
+If you have any questions or suggestions about my Terms of Service, do not hesitate to contact me at [zygametop@gmail.com](mailto:zygametop@gmail.com).
