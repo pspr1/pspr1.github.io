@@ -64,4 +64,4 @@ This policy is effective as of 2020-08-11
 
 **Contact Us**
 
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at zygametop@gmail.com.
+If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at [zygametop@gmail.com](mailto:zygametop@gmail.com).
